@@ -16,7 +16,7 @@
 - Competitive Programmer
 - Have a Keen Interest in things related to Computer Science and Quantum Physics.
 - 👯 Would love working with people and brainstorming ideas 
-- 🌱 I’m currently learning **Vue**
+- 🌱 I’m currently learning **React**
 - 📫 Reach Me At: **dhruv1778@gmail.com**
 
 ## Languages and Tools 🧰
