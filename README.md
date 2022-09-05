@@ -2,7 +2,7 @@
 # I am Dhruv Singh
 <p align="center">
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=DhruvSingh21&left_color=e63946&right_color=green) 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sudo-jarvis&left_color=e63946&right_color=green) 
 
 </p>
 
@@ -47,14 +47,14 @@
 ## GitHub Statistics
 
 <p align="center">
- <a href="https://github-readme-stats.vercel.app/api?username=DhruvSingh21&show_icons=true&count_private=true&theme=onedark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DhruvSingh21&show_icons=true&count_private=true&theme=onedark" />
+ <a href="https://github-readme-stats.vercel.app/api?username=sudo-jarvis&show_icons=true&count_private=true&theme=onedark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sudo-jarvis&show_icons=true&count_private=true&theme=onedark" />
 </a>
 </p>
 
 <p align="center">
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvSingh21&theme=onedark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvSingh21&theme=onedark&exclude_repo=Competitive-Programming&hide=html,css" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-jarvis&theme=onedark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-jarvis&theme=onedark&exclude_repo=Competitive-Programming&hide=html,css" />
 </a>
 </p>
   
