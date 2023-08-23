@@ -54,7 +54,7 @@
 
 <p align="center">
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-jarvis&theme=onedark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-jarvis&theme=onedark&exclude_repo=Competitive-Programming&hide=html,css" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-jarvis&theme=onedark&exclude_repo=Competitive-Programming&hide=html,css,java" />
 </a>
 </p>
   
