@@ -4,7 +4,6 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=FF9595&size=20&lines=Good+to+see+you+here!;Welcome+to+my+profile" />
 </a>
-
 ## About Me
 
 - I am an Engineering Undergraduate student pursuing Computer Science at the <a href="/https://www.iitbhu.ac.in/"> <b> Indian Institute of Technology</b>, Varanasi</a> pursuing B. Tech and am currently in my Second Year.
