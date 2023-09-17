@@ -48,7 +48,7 @@
 
 <p align="center">
  <a href="https://github-readme-stats.vercel.app/api?username=sudo-jarvis&show_icons=true&count_private=true&theme=onedark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sudo-jarvis&show_icons=true&count_private=true&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sudo-jarvis&show_icons=true&count_private=true&theme=onedark&rank_icon=github" />
 </a>
 </p>
 
