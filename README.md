@@ -1,10 +1,5 @@
 # 𝐇i👋 T𝐡𝐞𝐫𝐞
 # I am Dhruv Singh
-<p align="center">
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sudo-jarvis&left_color=e63946&right_color=green) 
-
-</p>
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=FF9595&size=20&lines=Good+to+see+you+here!;Welcome+to+my+profile" />
