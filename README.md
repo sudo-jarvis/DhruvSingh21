@@ -11,7 +11,6 @@
 - Competitive Programmer
 - Have a Keen Interest in things related to Computer Science and Quantum Physics.
 - 👯 Would love working with people and brainstorming ideas 
-- 📫 Reach Me At: **dhruv1778@gmail.com**
 
 ## Languages and Tools 🧰
 
