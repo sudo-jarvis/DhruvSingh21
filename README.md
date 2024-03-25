@@ -7,7 +7,7 @@
 
 ## About Me
 
-- I am an Engineering Undergraduate student pursuing Computer Science at the <a href="/https://www.iitbhu.ac.in/"> <b> Indian Institute of Technology</b>, Varanasi</a> pursuing B. Tech and am currently in my Fourth Year.
+- I am an Engineering Undergraduate student pursuing Computer Science at the <a href="https://www.iitbhu.ac.in/"> <b> Indian Institute of Technology</b>, Varanasi</a> pursuing B. Tech and am currently in my Fourth Year.
 - Competitive Programmer
 - Have a Keen Interest in things related to Computer Science and Quantum Physics.
 - 👯 Would love working with people and brainstorming ideas 
